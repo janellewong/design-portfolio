@@ -3,6 +3,6 @@
 For applying to art and design related roles. 
 
 
-Dummy-portfolio link -> https://shloksomani.github.io/react-portfolio/
+https://janellewong-portfolio.netlify.app/
 
 ![](test.gif)
