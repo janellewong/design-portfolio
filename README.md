@@ -1,6 +1,6 @@
-# React-portfolio
+# Art and Design Portfolio
 
-A boilrplate react portfolio to showcase your projects and work
+For applying to art and design related roles. 
 
 
 Dummy-portfolio link -> https://shloksomani.github.io/react-portfolio/
