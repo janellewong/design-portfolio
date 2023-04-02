@@ -101,20 +101,16 @@ class Contact extends React.Component {
                       <div className="title-box-2 pt-4 pt-md-0">
                         <h5 className="title-left">Get in Touch</h5>
                       </div>
-                      {/* <div className="more-info">
+                      <div className="more-info">
                         <p className="lead">
-                          Whether you want to get in touch, talk about a project
-                          collaboration, or just say hi, I'd love to hear from
-                          you.
-                          <br />
-                          Simply fill the from and send me an email.
+                          Send me an email at janellewong112@gmail.com
                         </p>
-                      </div> */}
+                      </div>
                       <div className="socials">
                         <ul>
                           <li>
                             <a
-                              href=""
+                              href="https://www.instagram.com/jnell__/"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -125,7 +121,7 @@ class Contact extends React.Component {
                           </li>
                           <li>
                             <a
-                              href=""
+                              href="https://github.com/janellewong"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -136,7 +132,7 @@ class Contact extends React.Component {
                           </li>
                           <li>
                             <a
-                              href=""
+                              href="https://www.linkedin.com/in/janellewong999/"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
