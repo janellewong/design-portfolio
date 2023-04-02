@@ -384,7 +384,7 @@ class Portfolio extends React.Component {
           <div className="row">
             <div className="col-md-4">
               <div className="work-box">
-                <a href={origami1} data-lightbox="gallery-medlingos">
+                <a href={origami1} data-lightbox="gallery-origami">
                   <div className="work-img">
                     <img src={origami1} alt="" className="img-fluid" />
                   </div>
@@ -408,49 +408,49 @@ class Portfolio extends React.Component {
                 </a>
                 <a
                   href={origami2}
-                  data-lightbox="gallery-medlingos"
+                  data-lightbox="gallery-origami"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={origami3}
-                  data-lightbox="gallery-medlingos"
+                  data-lightbox="gallery-origami"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={origami4}
-                  data-lightbox="gallery-medlingos"
+                  data-lightbox="gallery-origami"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={origami5}
-                  data-lightbox="gallery-medlingos"
+                  data-lightbox="gallery-origami"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={origami6}
-                  data-lightbox="gallery-medlingos"
+                  data-lightbox="gallery-origami"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={origami7}
-                  data-lightbox="gallery-medlingos"
+                  data-lightbox="gallery-origami"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={origami8}
-                  data-lightbox="gallery-medlingos"
+                  data-lightbox="gallery-origami"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
@@ -459,7 +459,7 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href={card4} data-lightbox="gallery-smth">
+                <a href={card4} data-lightbox="gallery-card">
                   <div className="work-img">
                     <img src={card4} alt="" className="img-fluid" />
                   </div>
@@ -481,21 +481,21 @@ class Portfolio extends React.Component {
                 </a>
                 <a
                   href={card1}
-                  data-lightbox="gallery-smth"
+                  data-lightbox="gallery-card"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={card2}
-                  data-lightbox="gallery-smth"
+                  data-lightbox="gallery-card"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={card3}
-                  data-lightbox="gallery-smth"
+                  data-lightbox="gallery-card"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
@@ -504,7 +504,7 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href={other1} data-lightbox="gallery-mf">
+                <a href={other1} data-lightbox="gallery-other">
                   <div className="work-img">
                     <img src={other1} alt="" className="img-fluid" />
                   </div>
@@ -528,7 +528,7 @@ class Portfolio extends React.Component {
                 </a>
                 <a
                   href={other2}
-                  data-lightbox="gallery-mf"
+                  data-lightbox="gallery-other"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
