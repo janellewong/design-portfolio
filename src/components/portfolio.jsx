@@ -11,6 +11,8 @@ import painting2 from "../img/painting2.jpg";
 import painting3 from "../img/painting3.jpg";
 import painting4 from "../img/painting4.jpg";
 import painting5 from "../img/painting5.jpg";
+import painting6 from "../img/painting6.jpg";
+
 
 
 import sketching1 from "../img/sketching1.jpg";
@@ -22,10 +24,14 @@ import biztech1 from "../img/BizTech1.jpg";
 import biztech2 from "../img/BizTech2.jpg";
 import biztech3 from "../img/BizTech3.jpg";
 import biztech4 from "../img/BizTech4.jpg";
-import biztech5 from "../img/BizTech5.png";
+import biztech5 from "../img/BizTech5.jpg";
+import biztech6 from "../img/BizTech6.png";
+
 
 import covers1 from "../img/covers1.jpg";
 import covers2 from "../img/covers2.jpg";
+import covers3 from "../img/covers3.png";
+
 
 import photo1 from "../img/Photo1.jpg";
 import photo2 from "../img/Photo2.jpg";
@@ -49,6 +55,8 @@ import card4 from "../img/card4.jpg";
 
 import other1 from "../img/other1.jpg";
 import other2 from "../img/other2.jpg";
+import other3 from "../img/other3.jpg";
+
 
 
 class Portfolio extends React.Component {
@@ -178,6 +186,13 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
+                <a
+                  href={painting6}
+                  data-lightbox="gallery-aguadeluz"
+                  style={{ display: "none" }}
+                >
+                  jsx-a11y/anchor-has-content warning
+                </a>
               </div>
             </div>
             <div className="col-md-4">
@@ -287,6 +302,13 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
+                <a
+                  href={biztech6}
+                  data-lightbox="gallery-medlingos"
+                  style={{ display: "none" }}
+                >
+                  jsx-a11y/anchor-has-content warning
+                </a>
               </div>
             </div>
             <div className="col-md-4">
@@ -298,9 +320,9 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Cover Designs</h2>
+                        <h2 className="w-title">Covers & Infographics</h2>
                         <div className="w-more">
-                          <span className="w-ctegory">Photoshop, Procreate</span>
+                          <span className="w-ctegory">Figma, Photoshop, Procreate</span>
                         </div>
                       </div>
                       <div className="col-sm-4">
@@ -313,6 +335,13 @@ class Portfolio extends React.Component {
                 </a>
                 <a
                   href={covers2}
+                  data-lightbox="gallery-smth"
+                  style={{ display: "none" }}
+                >
+                  jsx-a11y/anchor-has-content warning
+                </a>
+                <a
+                  href={covers3}
                   data-lightbox="gallery-smth"
                   style={{ display: "none" }}
                 >
@@ -514,7 +543,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Other</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            Copic Markers, Pens
+                            Mixed Media, Felting
                           </span>
                         </div>
                       </div>
@@ -528,6 +557,13 @@ class Portfolio extends React.Component {
                 </a>
                 <a
                   href={other2}
+                  data-lightbox="gallery-other"
+                  style={{ display: "none" }}
+                >
+                  jsx-a11y/anchor-has-content warning
+                </a>
+                <a
+                  href={other3}
                   data-lightbox="gallery-other"
                   style={{ display: "none" }}
                 >
