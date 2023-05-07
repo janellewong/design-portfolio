@@ -1,5 +1,4 @@
 import React from "react";
-import headshot from "../img/headshot.jpg";
 
 class Experience extends React.Component {
   render() {
@@ -35,7 +34,35 @@ class Experience extends React.Component {
                     <div className="about-me pt-4 pt-md-0">
                       <div className="title-box-2">
                         <div className="col-md-12">
-                          <p>In progress!</p>
+                          <p>In progress! Come back later for updates!</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="box-shadow-full">
+                <div className="row">
+                  <div className="col-md-3">
+                    <div className="about-me pt-4 pt-md-0">
+                      <div className="title-box-6">
+                        <div className="col-md-12">
+                          <h6 className="title-left">UBC Marketing Association</h6>
+                          <br></br>
+                          <p>APR 2023 - PRESENT</p>
+                          <p>Design Director</p>
+                          <p>Vancouver, British Columbia</p>
+                          
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="col-md-9">
+                    <div className="about-me pt-4 pt-md-0">
+                      <div className="title-box-2">
+                        <div className="col-md-12">
+                          <p>In progress! Come back later for updates!</p>
                         </div>
                       </div>
                     </div>

@@ -24,6 +24,7 @@ import Navbar from './components/navbar.jsx';
 import Intro from './components/intro.jsx';
 import About from './components/about.jsx';
 import Experience from './components/experience';
+import Projects from './components/projects';
 import Portfolio from './components/portfolio.jsx';
 import Contact from './components/contact.jsx';
 import BackToTop from './components/back-top.jsx';
@@ -37,6 +38,7 @@ ReactDOM.render(
         <Intro />
         <About />
         <Experience />
+        <Projects />
         <Portfolio />
         <Contact />
         <BackToTop />
