@@ -34,7 +34,11 @@ class Experience extends React.Component {
                     <div className="about-me pt-4 pt-md-0">
                       <div className="title-box-2">
                         <div className="col-md-12">
-                          <p>In progress! Come back later for updates!</p>
+                        <br></br>
+                        <ul>
+                          <li>Designed and implemented an end-to-end distributed tracing system in the Salesforce Customer Data Platform’s live data streaming pipeline by integrating Zipkin through multiple microservices including AWS s3 servers, Kafka, Spark, and various APIs, in order to reduce latency and optimize the data streaming process.</li>
+                        </ul>
+                        <p><b>Skills: </b>Java, Kafka, Zipkin, Apache Spark, AWS, Docker, Kubernetes, REST API, Postman, Git, GUS, Agile</p>
                         </div>
                       </div>
                     </div>
@@ -62,7 +66,7 @@ class Experience extends React.Component {
                     <div className="about-me pt-4 pt-md-0">
                       <div className="title-box-2">
                         <div className="col-md-12">
-                          <p>In progress! Come back later for updates!</p>
+                        <p>In progress! Come back later for updates!</p>
                         </div>
                       </div>
                     </div>
