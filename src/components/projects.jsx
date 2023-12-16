@@ -21,6 +21,37 @@ class Projects extends React.Component {
                     <div className="about-me pt-4 pt-md-0">
                       <div className="title-box-6">
                         <div className="col-md-12">
+                          <h6 className="title-left">PetInTime</h6>
+                          <br></br>
+                          <p>NOV 2023</p>
+                          <p><b>UXPLORE 2023 SECOND PLACE WINNER</b></p>
+                          <p><a href="https://www.figma.com/proto/tTdUL3PC4yvq17BaltX9rx/PetInTime?type=design&node-id=12-2513&t=Yf7ID2jhqfja1An7-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=12%3A2513&show-proto-sidebar=1&mode=design">Figma Prototype</a></p>
+                          
+                          
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="col-md-9">
+                    <div className="about-me pt-4 pt-md-0">
+                      <div className="title-box-2">
+                        <div className="col-md-12">
+                          <p> A mobile app design with a working prototype on Figma detailing a new startup idea of gamification of lateness. Many people are always late, especially students, so our team decided to build an app that would help others be on time by connecting their schedules to a virtual pet.   </p>
+                          <p><b>Skills: </b>Figma</p>
+
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="box-shadow-full">
+                <div className="row">
+                  <div className="col-md-3">
+                    <div className="about-me pt-4 pt-md-0">
+                      <div className="title-box-6">
+                        <div className="col-md-12">
                           <h6 className="title-left">MoviesViz</h6>
                           <br></br>
                           <p>APR 2023</p>

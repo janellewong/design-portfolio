@@ -22,7 +22,7 @@ class Experience extends React.Component {
                         <div className="col-md-12">
                           <h6 className="title-left">Salesforce</h6>
                           <br></br>
-                          <p>MAY 2023 - PRESENT</p>
+                          <p>MAY 2023 - AUG 2023</p>
                           <p>Software Engineer Intern</p>
                           <p>San Francisco, California</p>
                           
@@ -54,7 +54,7 @@ class Experience extends React.Component {
                         <div className="col-md-12">
                           <h6 className="title-left">UBC Marketing Association</h6>
                           <br></br>
-                          <p>APR 2023 - PRESENT</p>
+                          <p>APR 2023 - DEC 2023</p>
                           <p>Design Director</p>
                           <p>Vancouver, British Columbia</p>
                           
@@ -66,7 +66,11 @@ class Experience extends React.Component {
                     <div className="about-me pt-4 pt-md-0">
                       <div className="title-box-2">
                         <div className="col-md-12">
-                        <p>In progress! Come back later for updates!</p>
+                        <ul>
+                          <li>Created club event graphics, clothing merchandise, logos, and managed social media accounts to promote our club, as well as maintain and establish a brand within the university community </li>
+                          <li>Collaborated and communicated with stakeholders and partners of our club to design graphics for events with Adobe Photoshop and Illustrator</li>
+                        </ul>
+                        <p><b>Skills: </b>Adobe Photoshop, Adobe Illustrator, Figma</p>
                         </div>
                       </div>
                     </div>
