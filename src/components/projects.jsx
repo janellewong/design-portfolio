@@ -10,7 +10,7 @@ class Projects extends React.Component {
               <div className="title-box text-center">
                 <h3 className="title-a">Projects</h3>
                 <p className="subtitle-a">
-                  software engineer & UI/UX & graphic designer
+                  UI/UX designer
                 </p>
                 <div className="line-mf"></div>
               </div>
@@ -76,7 +76,7 @@ class Projects extends React.Component {
                 </div>
               </div>
 
-              <div className="box-shadow-full">
+              {/* <div className="box-shadow-full">
                 <div className="row">
                   <div className="col-md-3">
                     <div className="about-me pt-4 pt-md-0">
@@ -205,7 +205,7 @@ class Projects extends React.Component {
                     </div>
                   </div>
                 </div>
-              </div>
+              </div> */}
               
             </div>
           </div>

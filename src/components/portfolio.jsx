@@ -244,7 +244,7 @@ class Portfolio extends React.Component {
               </div>
             </div>
           </div>
-          <div>
+          {/* <div>
             <br></br>
             <h2>Design and Photography</h2>
             <br></br>
@@ -403,7 +403,7 @@ class Portfolio extends React.Component {
                 </a>
               </div>
             </div>
-          </div>
+          </div> */}
 
           <div>
             <br></br>
