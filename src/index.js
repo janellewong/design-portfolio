@@ -26,9 +26,12 @@ import About from './components/about.jsx';
 import Experience from './components/experience';
 import Projects from './components/projects';
 import Portfolio from './components/portfolio.jsx';
+import Design from './components/design.jsx';
 import Contact from './components/contact.jsx';
 import BackToTop from './components/back-top.jsx';
 import Preloader from './components/preloader';
+
+
 
 
 
@@ -39,6 +42,7 @@ ReactDOM.render(
         <About />
         <Experience />
         <Projects />
+        <Design />
         <Portfolio />
         <Contact />
         <BackToTop />

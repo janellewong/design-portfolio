@@ -8,11 +8,41 @@ class Projects extends React.Component {
           <div className="row">
             <div className="col-sm-12">
               <div className="title-box text-center">
-                <h3 className="title-a">Technical Projects</h3>
+                <h3 className="title-a">Projects</h3>
                 <p className="subtitle-a">
-                  software engineer
+                  software engineer & UI/UX & graphic designer
                 </p>
                 <div className="line-mf"></div>
+              </div>
+
+              <div className="box-shadow-full">
+                <div className="row">
+                  <div className="col-md-3">
+                    <div className="about-me pt-4 pt-md-0">
+                      <div className="title-box-6">
+                        <div className="col-md-12">
+                          <h6 className="title-left">Loki</h6>
+                          <br></br>
+                          <p>DEC 2023</p>
+                          <p><a href="https://www.figma.com/file/hvBR9qwUlVeIgryW3GsAIC/Loki---Service-Flow?type=design&node-id=335-163&mode=design&t=vLSsWGl5SfDbVyQl-0">Figma</a></p>
+                          
+                          
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="col-md-9">
+                    <div className="about-me pt-4 pt-md-0">
+                      <div className="title-box-2">
+                        <div className="col-md-12">
+                          <p>Lead designer on logo design, branding package and more than 50+ high fidelity Figma mockups for each app screen of Loki, an up and coming app for small businesses to connect with clients, schedule bookings and explore other businesses</p>
+                          <p><b>Skills: </b>Figma</p>
+
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
 
               <div className="box-shadow-full">
